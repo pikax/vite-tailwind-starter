@@ -26,7 +26,7 @@
               <a
                 target="_blank"
                 class="text-indigo-600 underline hover:text-indigo-500"
-                href="https://TODO.com"
+                href="https://github.com/posva/vite-tailwind-starter"
                 >plain Tailwind version</a
               >
               instead.
@@ -36,7 +36,7 @@
             >
               <div class="rounded-md shadow">
                 <a
-                  href="https://github.com/posva/vite-tailwind-starter"
+                  href="https://github.com/posva/vite-tailwind-starter/tree/tailwind-ui"
                   class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10"
                 >
                   Get started
